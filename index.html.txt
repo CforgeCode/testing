@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Minhas Tarefas</title>
+</head>
+<body>
+    <h1>Lista de Tarefas</h1>
+    <ul>
+        <li>Estudar Git</li>
+        <li>Aprender GitHub</li>
+        <li>Colaborar na startup</li>
+    </ul>
+</body>
+</html>
